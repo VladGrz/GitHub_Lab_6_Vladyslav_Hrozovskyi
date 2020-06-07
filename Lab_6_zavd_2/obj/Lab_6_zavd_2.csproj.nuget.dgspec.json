@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ООП\\Lab_6\\Lab_6_zavd_1\\Lab_6_zavd_1\\Lab_6_zavd_1.csproj": {}
+    "D:\\ООП\\Lab_6\\Lab_6_zavd_2\\Lab_6_zavd_2\\Lab_6_zavd_2.csproj": {}
   },
   "projects": {
-    "D:\\ООП\\Lab_6\\Lab_6_zavd_1\\Lab_6_zavd_1\\Lab_6_zavd_1.csproj": {
+    "D:\\ООП\\Lab_6\\Lab_6_zavd_2\\Lab_6_zavd_2\\Lab_6_zavd_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ООП\\Lab_6\\Lab_6_zavd_1\\Lab_6_zavd_1\\Lab_6_zavd_1.csproj",
-        "projectName": "Lab_6_zavd_1",
-        "projectPath": "D:\\ООП\\Lab_6\\Lab_6_zavd_1\\Lab_6_zavd_1\\Lab_6_zavd_1.csproj",
+        "projectUniqueName": "D:\\ООП\\Lab_6\\Lab_6_zavd_2\\Lab_6_zavd_2\\Lab_6_zavd_2.csproj",
+        "projectName": "Lab_6_zavd_2",
+        "projectPath": "D:\\ООП\\Lab_6\\Lab_6_zavd_2\\Lab_6_zavd_2\\Lab_6_zavd_2.csproj",
         "packagesPath": "C:\\Users\\vladg\\.nuget\\packages\\",
-        "outputPath": "D:\\ООП\\Lab_6\\Lab_6_zavd_1\\Lab_6_zavd_1\\obj\\",
+        "outputPath": "D:\\ООП\\Lab_6\\Lab_6_zavd_2\\Lab_6_zavd_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vladg\\AppData\\Roaming\\NuGet\\NuGet.Config",

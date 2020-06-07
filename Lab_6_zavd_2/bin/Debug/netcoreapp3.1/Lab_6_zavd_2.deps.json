@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Lab_6_zavd_1/1.0.0": {
+      "Lab_6_zavd_2/1.0.0": {
         "runtime": {
-          "Lab_6_zavd_1.dll": {}
+          "Lab_6_zavd_2.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Lab_6_zavd_1/1.0.0": {
+    "Lab_6_zavd_2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
