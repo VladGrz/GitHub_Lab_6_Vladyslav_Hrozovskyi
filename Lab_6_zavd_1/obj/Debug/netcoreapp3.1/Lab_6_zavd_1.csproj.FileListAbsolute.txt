@@ -1,0 +1,13 @@
+D:\ООП\Lab_6\Lab_6_zavd_1\Lab_6_zavd_1\obj\Debug\netcoreapp3.1\Lab_6_zavd_1.csprojAssemblyReference.cache
+D:\ООП\Lab_6\Lab_6_zavd_1\Lab_6_zavd_1\obj\Debug\netcoreapp3.1\Lab_6_zavd_1.csproj.CoreCompileInputs.cache
+D:\ООП\Lab_6\Lab_6_zavd_1\Lab_6_zavd_1\obj\Debug\netcoreapp3.1\Lab_6_zavd_1.AssemblyInfoInputs.cache
+D:\ООП\Lab_6\Lab_6_zavd_1\Lab_6_zavd_1\obj\Debug\netcoreapp3.1\Lab_6_zavd_1.AssemblyInfo.cs
+D:\ООП\Lab_6\Lab_6_zavd_1\Lab_6_zavd_1\bin\Debug\netcoreapp3.1\Lab_6_zavd_1.exe
+D:\ООП\Lab_6\Lab_6_zavd_1\Lab_6_zavd_1\bin\Debug\netcoreapp3.1\Lab_6_zavd_1.deps.json
+D:\ООП\Lab_6\Lab_6_zavd_1\Lab_6_zavd_1\bin\Debug\netcoreapp3.1\Lab_6_zavd_1.runtimeconfig.json
+D:\ООП\Lab_6\Lab_6_zavd_1\Lab_6_zavd_1\bin\Debug\netcoreapp3.1\Lab_6_zavd_1.runtimeconfig.dev.json
+D:\ООП\Lab_6\Lab_6_zavd_1\Lab_6_zavd_1\bin\Debug\netcoreapp3.1\Lab_6_zavd_1.dll
+D:\ООП\Lab_6\Lab_6_zavd_1\Lab_6_zavd_1\bin\Debug\netcoreapp3.1\Lab_6_zavd_1.pdb
+D:\ООП\Lab_6\Lab_6_zavd_1\Lab_6_zavd_1\obj\Debug\netcoreapp3.1\Lab_6_zavd_1.dll
+D:\ООП\Lab_6\Lab_6_zavd_1\Lab_6_zavd_1\obj\Debug\netcoreapp3.1\Lab_6_zavd_1.pdb
+D:\ООП\Lab_6\Lab_6_zavd_1\Lab_6_zavd_1\obj\Debug\netcoreapp3.1\Lab_6_zavd_1.genruntimeconfig.cache
